@@ -1,5 +1,14 @@
 # 🗳️ Clientes gRPC - Sistema de Votação Eletrónica
 
+# 🗳️ Clientes gRPC - Sistema de Votação Eletrónica
+
+![Node.js](https://img.shields.io/badge/Node.js-18%2B-green)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
+![gRPC](https://img.shields.io/badge/gRPC-1.14-orange)
+
+**Atividade II - Integração de Sistemas**  
+**Ano Letivo 2025-2026**
+
 **Atividade II - Integração de Sistemas**  
 **Ano Letivo 2025-2026**
 
